@@ -10,7 +10,7 @@ body {
 
 .kerry-container {
     height: 70vh;
-    background: url("../skellig.jpg") no-repeat top right fixed;
+    background: url("skellig.jpg") no-repeat top right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
