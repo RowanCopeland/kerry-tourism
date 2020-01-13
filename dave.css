@@ -1,0 +1,16 @@
+body,html{
+    background-color: red;
+}
+
+.char1:hover, char1:focus, char1:active {
+    content: url('images/people/darth.jpg')
+}
+
+.char2:hover, char2:focus, char2:active {
+    content: url('images/people/jarjar.jpg')
+}
+
+.char3:hover, char3:focus, char3:active {
+    content: url('images/people/yoda.jpg')
+}
+

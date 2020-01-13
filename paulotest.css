@@ -1,0 +1,26 @@
+body{
+    background-color: #ffff(0, 0, 0);
+}
+
+.char1:hover, char1:focus, char1:active {
+    content: url('images/people/darth.jpg')
+}
+
+.char2:hover, char2:focus, char2:active {
+    content: url('images/people/jarjar.jpg')
+}
+
+.char3:hover, char3:focus, char3:active {
+    content: url('images/people/yoda.jpg')
+}
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 20px 20px 0 rgba(83, 243, 77, 0.4));
+  transition: 0.3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 20px 20px 0 rgba(28, 226, 21, 0.4);
+}
